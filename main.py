@@ -5,3 +5,4 @@ location = "Pune"
 
 print("Damage detected:", damage_type)
 print("Location:", location)
+print("Road damage analysis completed.")
